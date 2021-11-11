@@ -35,7 +35,7 @@ This website is a time sink [reddit](https://www.reddit.com "content for days").
 
 I found this to be helpful [Markdown Guide](https://www.markdownguide.org)
 
-the quick brown fox jumped over the lazy dogthe quick brown fox jumped over the lazy dogthe quick brown fox [google][!] jumped over the lazy dogthe quick brown fox jumped over the lazy dog
+the quick brown fox jumped over the lazy dogthe quick brown fox jumped over the lazy dogthe quick brown fox [google][!]   jumped over the lazy dogthe quick brown fox jumped over the lazy dog
 
 [!]: <https://www.google.com>
 
